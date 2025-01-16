@@ -88,8 +88,10 @@ admin_code
 
 1. Clone the Project:
 
+```bash
 git clone https://github.com/your-repo/edustream.git
 cd edustream
+```
 
 2. Configure the Database:
    
