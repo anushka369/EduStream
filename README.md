@@ -36,9 +36,9 @@ EduStream is a user-friendly educational web portal designed to streamline the p
 
 ---
 
-## Project Structure
+## Project Structure 📁
 
-#### Files and Directories 📁
+#### Files and Directories
 
 - **/index.html:** The landing page with options to login or signup.
 
