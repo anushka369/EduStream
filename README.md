@@ -8,33 +8,31 @@ EduStream is a user-friendly educational web portal designed to streamline the p
 
 #### 1. User Role Management 👩‍💻
 
-Teacher
-
-Student
-
-Admin
+- Teacher
+- Student
+- Admin
 
 #### 2. Functionalities ⚙
 
-Signup: Allows users to create accounts based on their roles.
+- **Signup:** Allows users to create accounts based on their roles.
 
-Login: Authenticates users and redirects them to their respective dashboards.
+- **Login:** Authenticates users and redirects them to their respective dashboards.
 
-Form Validation: Ensures valid inputs from users during signup and login.
+- **Form Validation:** Ensures valid inputs from users during signup and login.
 
-Secure Password Storage: Passwords are securely hashed for safety.
+- **Secure Password Storage:** Passwords are securely hashed for safety.
 
 #### 3. Database Integration 🎯
 
-Structured database tables for Teachers, Students, and Admins.
+- Structured database tables for Teachers, Students, and Admins.
 
-Queries to store and retrieve user data based on roles.
+- Queries to store and retrieve user data based on roles.
 
 #### 4. UI Design 🎨
 
-Modern and clean UI for all forms (Login, Signup).
+- Modern and clean UI for all forms (Login, Signup).
 
-Fully responsive design using CSS for better accessibility.
+- Fully responsive design using CSS for better accessibility.
 
 ---
 
@@ -42,63 +40,59 @@ Fully responsive design using CSS for better accessibility.
 
 #### Files and Directories 📁
 
-/index.html: The landing page with options to login or signup.
+- **/index.html:** The landing page with options to login or signup.
 
-/styles.css: The stylesheet for the project UI.
+- **/styles.css:** The stylesheet for the project UI.
 
-/images: Directory to store images used in the project (e.g., background images).
+- **/images:** Directory to store images used in the project (e.g., background images).
 
 ---
 
 ## Database Schema 📑
 
-Database Name: EduStream
-
 Tables
 
 #### 1. teachers
 
-id (Primary Key)
-name
-username (Unique)
-subject
-teacher_id
-password
-teacher_code
+- id (Primary Key)
+- name
+- username (Unique)
+- subject
+- teacher_id
+- password
+- teacher_code
 
 #### 2. students
 
-id (Primary Key)
-name
-username (Unique)
-class
-roll_number
-password
+- id (Primary Key)
+- name
+- username (Unique)
+- class
+- roll_number
+- password
 
 #### 3. admins
 
-id (Primary Key)
-username (Unique)
-password
-admin_code
+- id (Primary Key)
+- username (Unique)
+- password
+- admin_code
 
 ---
 
 ## Setup Instructions 🍄
 
-1. Clone the Project:
+**1. Clone the Project:**
 
 ```bash
 git clone https://github.com/your-repo/edustream.git
 cd edustream
 ```
 
-2. Configure the Database:
-   
+**2. Configure the Database:**
 Import the EduStream database schema into your MySQL server using the provided SQL file (database.sql).
 
-3. Access the Website:
-
+**3. Access the Website:**
 Open your browser and go to http://localhost/edustream.
 
 ---
@@ -108,13 +102,13 @@ Open your browser and go to http://localhost/edustream.
 #### Signup
 
 1. Select your role (Teacher/Student).
+2. 
+3. Fill in the required details and submit the form.
 
-2. Fill in the required details and submit the form.
-   
-3. For Teachers:
+4. For Teachers:
 Provide your teacher_code for authentication.
 
-4. For Students:
+5. For Students:
 Provide your class and roll number.
 
 #### Login
@@ -139,19 +133,19 @@ Database: MySQL
 
 #### 1. Role-specific Dashboards:
 
-Teachers: Manage students and subjects.
-Students: Access educational content.
-Admins: Manage users and monitor activity.
+- Teachers: Manage students and subjects.
+- Students: Access educational content.
+- Admins: Manage users and monitor activity.
 
 #### 2. Enhanced Security:
 
-Add CAPTCHA to prevent bots.
-Implement session timeout.
+- Add CAPTCHA to prevent bots.
+- Implement session timeout.
 
 #### 3. Additional Features:
 
-File upload/download for assignments.
-Notifications for updates and announcements.
+- File upload/download for assignments.
+- Notifications for updates and announcements.
 
 ---
 
@@ -171,5 +165,3 @@ Contributions are welcome! To contribute:
 
 - Anushka Banerjee [@anushka369](https://github.com/anushka369)
 - Shashank Singh [@shashankexore](https://github.com/shashankexore)
-
----
