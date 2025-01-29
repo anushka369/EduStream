@@ -102,13 +102,13 @@ Open your browser and go to http://localhost/edustream.
 #### Signup
 
 1. Select your role (Teacher/Student).
-2. 
-3. Fill in the required details and submit the form.
+ 
+2. Fill in the required details and submit the form.
 
-4. For Teachers:
+3. For Teachers:
 Provide your teacher_code for authentication.
 
-5. For Students:
+4. For Students:
 Provide your class and roll number.
 
 #### Login
