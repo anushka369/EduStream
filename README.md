@@ -123,9 +123,9 @@ Provide your class and roll number.
 
 ## Technologies Used 🌐
 
-Frontend: HTML, CSS
+- **Frontend:** HTML, CSS
 
-Database: MySQL
+- **Database:** MySQL
 
 ---
 
