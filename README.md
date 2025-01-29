@@ -151,7 +151,9 @@ Provide your class and roll number.
 
 ## Contributing 🤝
 
-Contributions are welcome! To contribute:
+Contributions and suggestions are welcome! <br>
+If you find any improvements, feel free to create a pull request.
+<br> To contribute:
 
 1. Fork the repository.
 
