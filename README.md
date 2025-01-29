@@ -103,7 +103,7 @@ Open your browser and go to http://localhost/edustream.
 
 ---
 
-## Usage Instructions 🌱
+## Usage Instructions 📍
 
 #### Signup
 
@@ -164,3 +164,10 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature/bug fix.
 
 3. Commit your changes and submit a pull request.
+
+---
+
+## Authors 🌱
+
+- Anushka Banerjee [@anushka369](https://github.com/anushka369)
+- Shashank Singh [@shashankexore](https://github.com/shashankexore)
