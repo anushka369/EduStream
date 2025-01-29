@@ -173,5 +173,3 @@ Contributions are welcome! To contribute:
 - Shashank Singh [@shashankexore](https://github.com/shashankexore)
 
 ---
-
-I love you
